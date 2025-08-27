@@ -1,4 +1,4 @@
-"""Simple Test Case"""
+"""Simple Test Case2"""
 
 from django.test import SimpleTestCase
 from app import calc
