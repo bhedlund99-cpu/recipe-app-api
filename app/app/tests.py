@@ -14,3 +14,4 @@ class CalcTest(SimpleTestCase):
     def test_sub_numbers(self):
         res = calc.sub(15, 10)
         self.assertEqual(res, 5)
+        
